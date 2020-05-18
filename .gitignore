@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/client/node_modules
 /.pnp
 .pnp.js
 /config/production.json
@@ -33,4 +34,3 @@ yarn-error.log*
 
 # Local Netlify folder
 .netlify
-
