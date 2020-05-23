@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc7cf6b0-505b-49b7-93f9-04dac2dd0cee" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/auth/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/auth/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/auth/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/auth/Register.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/layout/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/layout/Navbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/context/auth/AuthState.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/context/auth/AuthState.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/context/auth/authReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/context/auth/authReducer.js" afterDir="false" />
     </list>
@@ -24,88 +21,22 @@
       <file leaf-file-name="authReducer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/context/auth/authReducer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+            <state relative-caret-position="235">
+              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
               <folding>
-                <element signature="e#0#164#1" expanded="true" />
+                <element signature="e#0#164#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setAuthToken.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/utils/setAuthToken.js">
+      <file leaf-file-name="PrivateRoute.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/src/components/routing/PrivateRoute.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Register.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/components/auth/Register.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Home.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/components/pages/Home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="53" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Login.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/src/components/auth/Login.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="auth.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/auth.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-220">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthState.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/context/auth/AuthState.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="83" column="32" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+            <state relative-caret-position="120">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -160,7 +91,6 @@
         <option value="$PROJECT_DIR$/client/src/context/types.js" />
         <option value="$PROJECT_DIR$/client/src/context/auth/authContext.js" />
         <option value="$PROJECT_DIR$/client/src/components/auth/login.js" />
-        <option value="$PROJECT_DIR$/client/src/components/layout/Navbar.js" />
         <option value="$PROJECT_DIR$/client/src/context/alert/alertContext.js" />
         <option value="$PROJECT_DIR$/client/src/context/alert/AlertState.js" />
         <option value="$PROJECT_DIR$/client/src/context/alert/alertReducer.js" />
@@ -169,9 +99,11 @@
         <option value="$PROJECT_DIR$/client/src/components/auth/Register.js" />
         <option value="$PROJECT_DIR$/client/src/components/pages/Home.js" />
         <option value="$PROJECT_DIR$/client/src/utils/setAuthToken.js" />
+        <option value="$PROJECT_DIR$/client/src/components/auth/Login.js" />
         <option value="$PROJECT_DIR$/client/src/context/auth/AuthState.js" />
         <option value="$PROJECT_DIR$/client/src/context/auth/authReducer.js" />
-        <option value="$PROJECT_DIR$/client/src/components/auth/Login.js" />
+        <option value="$PROJECT_DIR$/client/src/components/layout/Navbar.js" />
+        <option value="$PROJECT_DIR$/client/src/components/routing/PrivateRoute.js" />
       </list>
     </option>
   </component>
@@ -266,6 +198,14 @@
               <item name="contact-keeper" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="routing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="contact-keeper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contact-keeper" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="context" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -345,12 +285,12 @@
       <updated>1589757046771</updated>
       <workItem from="1589757049230" duration="16633000" />
       <workItem from="1589991690114" duration="137000" />
-      <workItem from="1589992041384" duration="22678000" />
+      <workItem from="1589992041384" duration="24523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39448000" />
+    <option name="totallyTimeSpent" value="41293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -597,16 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/layout/Navbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/context/auth/authContext.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -672,32 +602,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/context/auth/authReducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#164#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/components/pages/Home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="53" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/context/auth/AuthState.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="83" column="32" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -735,10 +645,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/components/auth/Login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/layout/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/context/auth/AuthState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="92" column="24" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/context/auth/authReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/routing/PrivateRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
